@@ -1072,7 +1072,7 @@ a {
 
   header {
     text-align: center;
-    font-size: 70px;
+    font-size: 35px;
     position: relative;
     right: 8px;
     color: rgb(255, 255, 255);
@@ -1083,11 +1083,11 @@ a {
   }
 
   .sub-bio {
-    font-size: 35px;
+    font-size: 25px;
   }
 
   .bio {
-    font-size: 30px;
+    font-size: 23px;
     line-height: 1px;
   }
 
