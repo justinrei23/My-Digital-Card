@@ -364,6 +364,7 @@ a {
     z-index: -1;
     bottom: 980px;
     width: 250px;
+    right: 5px;
   }
 
   .circle {
@@ -454,8 +455,8 @@ a {
   .contact-details {
     font-size: 13px;
     position: absolute;
-    left: 95px;
-    top: 370px;
+    left: 8em;
+    top: 30em;
   }
 
   #contact {
@@ -466,7 +467,7 @@ a {
 
   .myWorks {
     position: relative;
-    right: 0px;
+    right: 0.5em;
   }
 
   .project-image {
@@ -1072,7 +1073,7 @@ a {
 
   header {
     text-align: center;
-    font-size: 35px;
+    font-size: 70px;
     position: relative;
     right: 8px;
     color: rgb(255, 255, 255);
@@ -1083,11 +1084,11 @@ a {
   }
 
   .sub-bio {
-    font-size: 25px;
+    font-size: 35px;
   }
 
   .bio {
-    font-size: 23px;
+    font-size: 30px;
     line-height: 1px;
   }
 
